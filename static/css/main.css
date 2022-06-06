@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     color: #444;
+    background: #f8f8f8;
 }
 
 /* Header formatting */
@@ -123,4 +124,9 @@ input[type=file] {
     text-decoration: none;
     color: inherit;
     opacity:0.8
+}
+
+.heading{
+    text-align: center;
+    margin: 10px;
 }
