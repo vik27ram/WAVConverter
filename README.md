@@ -1,5 +1,5 @@
 # WAVConverter
-# Install reqyuirements
+# Install requirements
 pip install -r requirements.txt
 
 # Run 
