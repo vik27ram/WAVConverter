@@ -258,8 +258,8 @@ def pianoroll_to_midi(y, pianoroll):
 
 
 # Statics
-UPLOAD_FOLDER = 'files\\uploaded'
-DOWNLOAD_FOLDER = 'files\\download'
+UPLOAD_FOLDER = 'files/uploaded'
+DOWNLOAD_FOLDER = 'files/download'
 ALLOWED_EXTENSIONS = set(['wav'])
 
 app = Flask(__name__)
